@@ -1,7 +1,7 @@
 # Steven Rice
 
 ### 📧 Contact@StevenRice.ca
-### [Website](https://stevenrice.ca, "Website")
+### [Website](https://stevenrice.ca "Website")
 
 ## Skills and Assets
 
