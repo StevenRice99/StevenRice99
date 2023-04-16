@@ -1,6 +1,9 @@
 # Steven Rice
 
 ### 📧 Contact@StevenRice.ca
+### [Website](https://stevenrice.ca, "Website")
+
+## Skills and Assets
 
 - Unity expert specialized in developing simulations and digital twins for robotic and automation applications.
 - Experience using Unity to develop a variety of game types including multiplayer games.
