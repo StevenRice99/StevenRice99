@@ -1,6 +1,6 @@
 # Steven Rice
 
-## 📧 Contact@StevenRice.ca
+### 📧 Contact@StevenRice.ca
 
 - Unity expert specialized in developing simulations and digital twins for robotic and automation applications.
 - Experience using Unity to develop a variety of game types including multiplayer games.
