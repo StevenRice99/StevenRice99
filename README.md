@@ -1,3 +1,5 @@
+# Steven Rice
+
 - Unity expert specialized in developing simulations and digital twins for robotic and automation applications.
 - Experience using Unity to develop a variety of game types including multiplayer games.
 - Fullstack .NET and ASP.NET developer with experience developing Blazor, Razor, MVC, and WPF applications implementing Entity Framework, ASP.NET Core Identity, and deploying to Microsoft Azure.
